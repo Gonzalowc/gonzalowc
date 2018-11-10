@@ -36,7 +36,12 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 12,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
