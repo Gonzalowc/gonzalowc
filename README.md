@@ -1,2 +1,0 @@
-# gonzalowc
-GitHub Pages
